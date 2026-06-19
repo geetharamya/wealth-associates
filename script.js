@@ -26,7 +26,7 @@ const portfolio = [
   },
   {
     title: 'Prime land parcel',
-    subtitle: 'Nashville · 40 acres · High visibility',
+    subtitle: 'Nashville · 400 acres · High visibility',
     description: 'Strategically positioned land parcel ideal for hospitality or mixed-use development near major transit corridors.',
     image: 'https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1200&q=80',
     tags: ['Land', 'Development', 'Nashville']
