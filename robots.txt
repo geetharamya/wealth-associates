@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://geetharamya.github.io/wealth-associates/sitemap.xml
+Sitemap:https://wealthassociates.netlify.app/sitemap.xml
